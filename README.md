@@ -1,1 +1,1 @@
-# jack tomlinson
+# John Michael Tomlinson, Jr.
