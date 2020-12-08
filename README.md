@@ -1,16 +1,12 @@
-# The Cayman theme
+# Jack Tomlinson
 
-[![Build Status](https://travis-ci.org/pages-themes/cayman.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
+## About
 
-*Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
+Welcome to my Github page. Here you'll find various speech and data science projects that I'm working on. If you have any comments and/or are interested in collobarting send me an emails at otomlins [A T] gmail [D O T] com. 
 
-![Thumbnail of Cayman](thumbnail.png)
+My research interests are currently the following:
 
-## Usage
-
-To use the Cayman theme:
-
-1. Add the following to your site's `_config.yml`:
+1. Detecting and classifying different pause types in Q-A sequecence`:
 
     ```yml
     theme: jekyll-theme-cayman
